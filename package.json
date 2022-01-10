@@ -1,0 +1,10 @@
+{
+  "name": "iwm",
+  "version": "0.0.0",
+  "description": "package publish test",
+  "main": "index.js",
+  "repository": "git@github.com:tomkcey/iwm.git",
+  "author": "tomkcey <tomkcey@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
