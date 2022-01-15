@@ -1,6 +1,6 @@
 {
   "name": "iwm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "package publish test",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -16,6 +16,6 @@
     "build": "tsc -d"
   },
   "files": [
-    "lib/**/*"
+    "lib/**/*.[j|t]s"
   ]
 }
